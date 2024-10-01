@@ -1,8 +1,8 @@
-Word search: A simple app that allws a user to create a word search using the Streamlit GUI.
+Word search: A simple app that allows a user to create a word search using the Streamlit GUI.
 
 <b>Getting Started</b>
 
-Clone this repository and navigate to the project directory. Install the required packages by running pip install -r Requirements.txt. Run the app using python word_search_st.py.
+Clone this repository and navigate to the project directory. Install the required packages by running pip install -r Requirements.txt. Run the app using streamlit run word_search_st.py.
 
 <b>Features</b>
 
