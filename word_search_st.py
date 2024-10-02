@@ -20,7 +20,21 @@ def main():
 
 
 class word_search:
-
+    """Represents a word search game.
+    
+    Attributes: 
+        words: The words to be included in the word search.
+        rows: The size of the rows of the word search board.
+        columns: The size of the columns of the word search board.
+        board: A matrix which holds the word search board.
+    
+    Methods:
+        check_words(): Checks if the words provided can be placed in the word search puzzle.
+        _blank_columns(the_word): Checks if there are blank columns in the board that can accommodate the given word.
+        _add_words(the_word, direction): Adds the specified word to the word search board in the given direction.
+        fill_board(): Fills the empty cells in the word search board with random uppercase letters.
+        display_board(): Displays the word search board in a visually appealing format.
+    """
     def __init__(self, board_size, words):
         """Initializes a new word_search puzzle.
 
