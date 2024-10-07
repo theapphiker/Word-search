@@ -1,4 +1,4 @@
-Word search: A simple app that allows a user to create a word search using the Streamlit GUI.
+Word search: A simple app that allows a user to create a word search using the Streamlit GUI. The purpose of this project is to deploy a Streamlit app on AWS EC2 with Docker, Nginx, and HTTPS.
 
 <b>Getting Started</b>
 
