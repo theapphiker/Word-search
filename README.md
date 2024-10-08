@@ -7,3 +7,7 @@ Clone this repository and navigate to the project directory. Install the require
 <b>Features</b>
 
 Allows the user to create a word search ranging from 10x10 to 20x20 letters.
+
+<b>Deploying on AWS</b>
+
+Please view the Deploy_guide.pdf file for instructions on how to deploy a Streamlit app on an AWS EC2 instance with Docker and Nginx over HTTPS.
